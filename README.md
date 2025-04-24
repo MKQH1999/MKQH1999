@@ -55,7 +55,7 @@ Hi there! I'm **Mahfoudh Allaith (MKQH1999)**, a **Software Developer & Data Ana
 - 🧠 **LinkedIn:** [MKQH1999](https://www.linkedin.com/in/MKQH1999)  
 - 📱 **Telegram:** [@MKQH1999](https://t.me/MKQH1999) 
 - 🐦 X (Twitter): [@MKQH1999](https://x.com/MKQH1999)  
-- 📞 WhatsApp: [Chat with me](https://wa.me/*967739488139) <!-- قم بتغيير الرقم إلى رقمك الخاص -->
+- 📞 WhatsApp: [Chat with me](https://wa.me/967739488139) <!-- قم بتغيير الرقم إلى رقمك الخاص -->
 - 📘 Facebook: [MKQH1999](https://www.facebook.com/MKQH1999)  
 - 🌐 **Username:** MKQH1999 on all platforms  
 
